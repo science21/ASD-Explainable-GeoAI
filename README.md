@@ -1,4 +1,3 @@
-# ASD-Explainable-GeoAI
 # ASD Explainable GeoAI
 
 This repository contains the processed analytical data and Python code used for the study:
